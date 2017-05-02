@@ -1,0 +1,3 @@
+Hello Suresh It is Storm first example Say goodbye to hadoop yes Goodbye to hadoop
+welcome to real-time processing
+It is apache storm first program word count program using apache storm
